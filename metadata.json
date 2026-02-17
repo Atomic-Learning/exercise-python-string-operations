@@ -1,0 +1,22 @@
+{
+    "title": "Exercise: String Operations",
+    "slug": "exercise-python-string-operations",
+    "description": "Create a string and perform various operations: extract first character, first three characters, last three, concatenate results, and alternating characters.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 6,
+    "prerequisites": [
+        "python-strings-introduction",
+        "python-strings-indexing",
+        "python-strings-slicing",
+        "python-strings-concatenation"
+    ],
+    "related": [
+        "sample-solution-python-string-operations"
+    ]
+}
