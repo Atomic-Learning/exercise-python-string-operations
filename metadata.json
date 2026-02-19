@@ -6,14 +6,13 @@
         "chris-cooling"
     ],
     "tags": [
-        "python",
-        "exercise"
+        "python"
     ],
     "duration": 6,
     "prerequisites": [
         "python-strings-introduction",
         "python-indexing",
-        "python-strings-slicing",
+        "python-slicing",
         "python-strings-concatenation"
     ],
     "related": [
