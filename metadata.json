@@ -1,6 +1,6 @@
 {
-    "title": "Exercise: String Operations",
-    "slug": "exercise-python-string-operations",
+    "title": "Exercise: Python - Extracting Characters from a String",
+    "slug": "exercise-python-extracting-characters-string",
     "description": "Create a string and perform various operations: extract first character, first three characters, last three, concatenate results, and alternating characters.",
     "authors": [
         "chris-cooling"
@@ -16,6 +16,6 @@
         "python-concatenation"
     ],
     "related": [
-        "sample-solution-python-string-operations"
+        "sample-solution-python-extracting-characters-string"
     ]
 }
